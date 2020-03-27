@@ -15,7 +15,7 @@
     "gulp-rename": "^1.2.2",
     "gulp-replace": "^0.5.4",
     "gulp-requirejs-optimize": "github:metafizzy/gulp-requirejs-optimize",
-    "gulp-uglify": "^1.4.2",
+    "gulp-uglify": "^3.0.2",
     "gulp-util": "^3.0.7",
     "highlight.js": "^8.9.1",
     "marked": "^0.3.5",
