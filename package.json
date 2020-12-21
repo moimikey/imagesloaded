@@ -4,7 +4,7 @@
   "description": "JavaScript is all like _You images done yet or what?_",
   "main": "imagesloaded.js",
   "dependencies": {
-    "ev-emitter": "^1.0.0"
+    "ev-emitter": "^2.1.0"
   },
   "devDependencies": {
     "chalk": "^1.1.1",
