@@ -17,7 +17,7 @@
     "gulp-requirejs-optimize": "github:metafizzy/gulp-requirejs-optimize",
     "gulp-uglify": "^1.4.2",
     "gulp-util": "^3.0.7",
-    "highlight.js": "^8.9.1",
+    "highlight.js": "^11.0.1",
     "marked": "^0.3.5",
     "minimist": "^1.2.0",
     "transfob": "^1.0.0"
